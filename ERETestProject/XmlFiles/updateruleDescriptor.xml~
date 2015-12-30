@@ -1,0 +1,15 @@
+<Rules>
+        <Rule id="Rule_1">
+		<Item id="Fname" name="Firstname" noofChars="All"/>
+		<Item id="Lname" name="Lastname" noofChars="All"/>
+	</Rule>
+
+	<Rule id="Rule_2">
+	        <Item id="Lname" name="Lastname" noofChars="All"/>
+		<Item id="ssn" name="SSN" noofChars="5"/>
+	</Rule>
+	<Rule id="Rule_2">
+	        <Item id="Lname" name="Firstname" noofChars="All"/>
+		<Item id="ssn" name="SSN" noofChars="All"/>
+	</Rule>
+</Rules>
